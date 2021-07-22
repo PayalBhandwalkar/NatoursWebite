@@ -41,7 +41,12 @@ body{
     
  }
  }
+ .row{
+     margin-top: -100rem;
+ }
+
  .heading-secondary{
+     margin-top: -100rem;
      font-size: 3.5rem;
      text-transform: uppercase;
      font-weight: 700;
@@ -70,6 +75,8 @@ body{
          margin-bottom: 3rem;
      }
  }
- 
+ .col-1-of-2{
+     padding: 5rem;
+ }
  
  
