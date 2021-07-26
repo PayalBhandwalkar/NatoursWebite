@@ -1,4 +1,4 @@
-.card {
+/*.card {
     perspective: 150rem;
     -moz-perspective: 150rem;
     position: relative;
@@ -90,13 +90,11 @@
        }
 
        &__heading-span {
-            padding: 1rem 1.5rem;
+        padding: 1rem 1.5rem;
+        -webkit-box-decoration-break: clone;
+        box-decoration-break: clone;
 
-            &--1  {
-            background-image: linear-gradient(to right bottom,
-                rgba($color-secondary-light, .85),
-                rgba($color-secondary-dark, .85)
-            );
-         }
-       }
-}
+        
+    }
+
+}*/
